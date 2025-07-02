@@ -1,1 +1,1 @@
-# Repo Global Vanda - SmartGo
+# Repo Global Vanda - ComexVision
